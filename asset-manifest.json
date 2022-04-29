@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/micromotion-project-page/static/css/main.0dda3327.css",
-    "main.js": "/micromotion-project-page/static/js/main.cc4cb536.js",
+    "main.js": "/micromotion-project-page/static/js/main.9d981184.js",
     "static/js/787.71e672d5.chunk.js": "/micromotion-project-page/static/js/787.71e672d5.chunk.js",
     "static/media/fig4.mp4": "/micromotion-project-page/static/media/fig4.db991df35e7e21a25d19.mp4",
     "static/media/painting.mp4": "/micromotion-project-page/static/media/painting.19859a6d07d455b47027.mp4",
@@ -28,11 +28,11 @@
     "static/media/outline-icons.woff2": "/micromotion-project-page/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/micromotion-project-page/index.html",
     "main.0dda3327.css.map": "/micromotion-project-page/static/css/main.0dda3327.css.map",
-    "main.cc4cb536.js.map": "/micromotion-project-page/static/js/main.cc4cb536.js.map",
+    "main.9d981184.js.map": "/micromotion-project-page/static/js/main.9d981184.js.map",
     "787.71e672d5.chunk.js.map": "/micromotion-project-page/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dda3327.css",
-    "static/js/main.cc4cb536.js"
+    "static/js/main.9d981184.js"
   ]
 }
